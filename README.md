@@ -1,6 +1,6 @@
 <div align="center">
   <h1>JavaScript-Learn</h1>
-  <p>This repository is just how I learn javascript for approximately 2,5-3 weeks. Nothing else!</p>
+  <p>This repository is just how I learn javascript for approximately 3,5-5 weeks. Nothing else!</p>
 </div>
 
 <br />
