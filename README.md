@@ -22,7 +22,7 @@ console.log('Hello World');
 ## Clone
 In order to get all of the codes, you can clone this repository using the following command:
 ``` 
-git clone https://github.com/oaxylf/JavaScript-Learn`
+git clone https://github.com/oaxylf/JavaScript-Learn
 ```
 
 <h2>Social Medias</h2>
