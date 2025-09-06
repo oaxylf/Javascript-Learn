@@ -1,6 +1,6 @@
 <div align="center">
   <h1>JavaScript-Learn</h1>
-  <p>This repository is just how I learn javascript for approximately 2,5-3 weeks. Nothing else!</p>
+  <p>This repository is just how I learn javascript for approximately 3,5-5 weeks. Nothing else!</p>
 </div>
 
 <br />
@@ -22,7 +22,7 @@ console.log('Hello World');
 ## Clone
 In order to get all of the codes, you can clone this repository using the following command:
 ``` 
-git clone https://github.com/oaxylf/JavaScript-Learn`
+git clone https://github.com/oaxylf/JavaScript-Learn
 ```
 
 <h2>Social Medias</h2>
