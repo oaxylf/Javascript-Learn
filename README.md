@@ -11,7 +11,7 @@ Javascript is one of the language among others to use interpreter (scripting lan
 
 ## Setup
 
-Before I am going to code the language, you need to install [Node.js](https://nodejs.org/en/download) and select the desired operatiob system and architecture then follow the instruction for the installation.
+Before I am going to code the language, you need to install [Node.js](https://nodejs.org/en/download) and select the desired operation system and architecture then follow the instruction for the installation.
 > [!IMPORTANT]
 > You can use **Web Browser** by using the shortcut of ` CTRL + Shift + I `, ` F12 ` or ` Left click > Inspect ` then go _Console_ and start writing up!
 
